@@ -1,0 +1,22 @@
+Neosam's screencast scripts.  Use it, share it, do whatever you like.
+These are tested under Ubuntu Linux.
+
+screencast.sh:  Use this script to create a picture every x seconds.
+                Pictures filenames will be <unixtime>.jpg so you can
+		terminate and restart the script without problems.
+		Needs scrot to take screenshots.
+
+cropvideo.sh:   If you want a specific area of your desktop
+		on your video you can run this script after you have run
+		screencast.sh.  You should backup your image files before
+		using this script :).
+		Needs ImageMagick.
+
+createvideo.sh: Takes all your jpeg files and store them into a movie.
+     		Needs mencoder.
+
+If you have questions on these scripts you can contact my at neosam@gmail.com
+
+Cheers,
+neosam.
+                 
