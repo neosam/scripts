@@ -15,7 +15,7 @@ cropvideo.sh:   If you want a specific area of your desktop
 createvideo.sh: Takes all your jpeg files and store them into a movie.
      		Needs mencoder.
 
-If you have questions on these scripts you can contact my at neosam@gmail.com
+If you have questions on these scripts you can contact me at neosam@gmail.com
 
 Cheers,
 neosam.
